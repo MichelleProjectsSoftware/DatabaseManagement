@@ -1,1 +1,2 @@
-# DatabaseManagement
+# Database Management APP (Windows Forms .NET)
+This is an App that allows users to manage and interact with multiple many-to-many relationship tables in a database through SQL Server Management Studio (SSMS). Users can add, edit, and delete data entries through event handlings.
