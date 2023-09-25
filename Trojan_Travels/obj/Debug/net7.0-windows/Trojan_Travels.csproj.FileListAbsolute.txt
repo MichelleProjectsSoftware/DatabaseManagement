@@ -1,0 +1,174 @@
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Trojan_Travels.exe
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Trojan_Travels.deps.json
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Trojan_Travels.runtimeconfig.json
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Trojan_Travels.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Trojan_Travels.pdb
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.csproj.AssemblyReference.cache
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.Form1.resources
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.csproj.GenerateResource.cache
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.AssemblyInfoInputs.cache
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.AssemblyInfo.cs
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.csproj.CoreCompileInputs.cache
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.csproj.CopyComplete
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\obj\Debug\net7.0-windows\refint\Trojan_Travels.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.pdb
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.genruntimeconfig.cache
+C:\Users\miche\Documents\sait_full_stack\course_d\Trojan_Travels\Trojan_Travels\obj\Debug\net7.0-windows\ref\Trojan_Travels.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Trojan_Travels.exe
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Trojan_Travels.deps.json
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Trojan_Travels.runtimeconfig.json
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Trojan_Travels.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Trojan_Travels.pdb
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.csproj.AssemblyReference.cache
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.Form1.resources
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.csproj.GenerateResource.cache
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.AssemblyInfoInputs.cache
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.AssemblyInfo.cs
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.csproj.CoreCompileInputs.cache
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.csproj.CopyComplete
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\obj\Debug\net7.0-windows\refint\Trojan_Travels.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.pdb
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.genruntimeconfig.cache
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Expert Windows Form\Trojan_Travels\obj\Debug\net7.0-windows\ref\Trojan_Travels.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Trojan_Travels.exe
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Trojan_Travels.deps.json
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Trojan_Travels.runtimeconfig.json
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Trojan_Travels.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Trojan_Travels.pdb
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.csproj.AssemblyReference.cache
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.Form1.resources
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.csproj.GenerateResource.cache
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.AssemblyInfoInputs.cache
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.AssemblyInfo.cs
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.csproj.CoreCompileInputs.cache
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.csproj.CopyComplete
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\obj\Debug\net7.0-windows\refint\Trojan_Travels.dll
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.pdb
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\obj\Debug\net7.0-windows\Trojan_Travels.genruntimeconfig.cache
+C:\Users\miche\Documents\sait_full_stack\course_d\Travel Experts - Xiao Li - CPRG 006 - Project 1\Trojan_Travels\obj\Debug\net7.0-windows\ref\Trojan_Travels.dll

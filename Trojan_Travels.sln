@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trojan_Travels", "Trojan_Travels\Trojan_Travels.csproj", "{4332CFC3-C7F2-4857-AC10-0D2B37F02382}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4332CFC3-C7F2-4857-AC10-0D2B37F02382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4332CFC3-C7F2-4857-AC10-0D2B37F02382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4332CFC3-C7F2-4857-AC10-0D2B37F02382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4332CFC3-C7F2-4857-AC10-0D2B37F02382}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56AC8929-86AE-4AFB-A86C-A219AFCD2F37}
+	EndGlobalSection
+EndGlobal
